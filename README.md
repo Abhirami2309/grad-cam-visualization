@@ -4,7 +4,7 @@ This project implements **Gradient-weighted Class Activation Mapping (Grad-CAM)*
 
 ---
 
-## 📌 Method
+## Method
 
 The Grad-CAM heatmap is generated through the following steps:
 
@@ -14,7 +14,7 @@ The Grad-CAM heatmap is generated through the following steps:
 
 ---
 
-## 🛠️ Usage & Dependencies
+## Usage & Dependencies
 
 ### Install Required Libraries
 
